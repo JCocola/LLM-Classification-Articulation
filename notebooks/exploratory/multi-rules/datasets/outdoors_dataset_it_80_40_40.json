@@ -1,0 +1,326 @@
+{
+  "train": [
+    {
+      "input": "Volunteers packed meals in the food bank warehouse last weekend.",
+      "label": false
+    },
+    {
+      "input": "Students read novels in the school library every afternoon.",
+      "label": false
+    },
+    {
+      "input": "Travelers snapped photos atop the hill during the golden hour.",
+      "label": true
+    },
+    {
+      "input": "A dog walker strolled through the neighborhood street at dusk.",
+      "label": true
+    },
+    {
+      "input": "Siblings built a snowman in their backyard during the snowfall.",
+      "label": true
+    },
+    {
+      "input": "Kids watched cartoons in the family room on rainy afternoons.",
+      "label": false
+    },
+    {
+      "input": "Picnickers lounged under umbrellas by the lake on a hot afternoon.",
+      "label": true
+    },
+    {
+      "input": "Emily jogged around the city park early this morning.",
+      "label": true
+    },
+    {
+      "input": "Families watched fireworks from the town square on Independence Day.",
+      "label": true
+    },
+    {
+      "input": "Friends watched a movie in the home theater yesterday evening.",
+      "label": false
+    },
+    {
+      "input": "Migratory birds rested on the wetland shore during the rainstorm.",
+      "label": true
+    },
+    {
+      "input": "Doctors examined patients in the hospital clinic every morning.",
+      "label": false
+    },
+    {
+      "input": "Employees held meetings in the conference room every Monday morning.",
+      "label": false
+    },
+    {
+      "input": "Musicians practiced their pieces in the music studio at dusk.",
+      "label": false
+    },
+    {
+      "input": "Readers discussed novels at the community center library during the book club meeting.",
+      "label": false
+    },
+    {
+      "input": "Surfers rode large waves off the coast in the late afternoon.",
+      "label": true
+    },
+    {
+      "input": "Artists painted landscapes beneath the old bridge on a sunny afternoon.",
+      "label": true
+    },
+    {
+      "input": "Families watched outdoor movies under the stars in the park on Friday nights.",
+      "label": true
+    },
+    {
+      "input": "A group sang songs around the bonfire near the lakeside at midnight.",
+      "label": true
+    },
+    {
+      "input": "Artists displayed portraits in the art gallery all week.",
+      "label": false
+    },
+    {
+      "input": "Children flew kites on the beach under the windy sky last weekend.",
+      "label": true
+    },
+    {
+      "input": "Students rehearsed a play in the school auditorium after class.",
+      "label": false
+    },
+    {
+      "input": "Cyclists sped down the country road during the cool spring morning.",
+      "label": true
+    },
+    {
+      "input": "Technicians repaired computers in the electronics store on Thursday.",
+      "label": false
+    },
+    {
+      "input": "Joggers ran along the beach despite the light rain yesterday.",
+      "label": true
+    },
+    {
+      "input": "People browsed fresh produce at the outdoor market on Saturday mornings.",
+      "label": true
+    },
+    {
+      "input": "Children painted pictures in the classroom during art hour.",
+      "label": false
+    },
+    {
+      "input": "Birdwatchers spotted eagles near the mountains during sunrise.",
+      "label": true
+    },
+    {
+      "input": "Two friends skated on the frozen lake during the crisp winter morning.",
+      "label": true
+    },
+    {
+      "input": "Campers pitched tents near the lakeshore on a cool evening.",
+      "label": true
+    },
+    {
+      "input": "Friends chatted over lunch in the shopping mall food court.",
+      "label": false
+    },
+    {
+      "input": "The family roasted marshmallows by the campfire in the campground last Saturday night.",
+      "label": true
+    },
+    {
+      "input": "Guests danced at the wedding reception hall until midnight.",
+      "label": false
+    },
+    {
+      "input": "Neighborhood kids played tag in the alley behind the buildings after dinner.",
+      "label": true
+    },
+    {
+      "input": "Librarians organized books in the archive room during the afternoon.",
+      "label": false
+    },
+    {
+      "input": "Athletes trained on treadmills inside the gym during the storm.",
+      "label": false
+    },
+    {
+      "input": "Tourists viewed ancient artifacts in the museum gallery on Tuesday.",
+      "label": false
+    },
+    {
+      "input": "Joggers stretched beside the running track at the stadium on Monday evening.",
+      "label": true
+    },
+    {
+      "input": "Children built blocks in the daycare center during playtime.",
+      "label": false
+    },
+    {
+      "input": "Museum visitors admired dinosaur skeletons in the exhibit hall on Sunday.",
+      "label": false
+    }
+  ],
+  "test": [
+    {
+      "input": "Dancers learned routines in the mirrored dance studio every evening.",
+      "label": false
+    },
+    {
+      "input": "The dog chased a ball across the open field right before sunset.",
+      "label": true
+    },
+    {
+      "input": "The couple enjoyed a picnic beneath the tall trees in the forest yesterday afternoon.",
+      "label": true
+    },
+    {
+      "input": "Kite enthusiasts displayed their creations on the hillside during the festival.",
+      "label": true
+    },
+    {
+      "input": "Teenagers played basketball at the playground after school.",
+      "label": true
+    },
+    {
+      "input": "Kids climbed jungle gyms on the school playground at recess.",
+      "label": true
+    },
+    {
+      "input": "Friends roasted hotdogs at the public park grill late Saturday afternoon.",
+      "label": true
+    },
+    {
+      "input": "Horseback riders crossed the open prairie at midday.",
+      "label": true
+    },
+    {
+      "input": "A family celebrated a birthday in the dining room last weekend.",
+      "label": false
+    },
+    {
+      "input": "Employees shared lunch in the office break room at noon.",
+      "label": false
+    },
+    {
+      "input": "Newlyweds dined privately in their hotel room the first evening.",
+      "label": false
+    },
+    {
+      "input": "Farmers harvested corn in the field early in the morning.",
+      "label": true
+    },
+    {
+      "input": "Students built robots in the engineering lab every semester.",
+      "label": false
+    },
+    {
+      "input": "Researchers analyzed samples in the laboratory throughout the week.",
+      "label": false
+    },
+    {
+      "input": "Kids splashed water near the fountain in the city plaza at noon.",
+      "label": true
+    },
+    {
+      "input": "Fishermen cast their lines from the riverbank at dawn.",
+      "label": true
+    },
+    {
+      "input": "Joggers ran along the river path before the evening rain.",
+      "label": true
+    },
+    {
+      "input": "Families enjoyed dinner in their kitchen during the thunderstorm.",
+      "label": false
+    },
+    {
+      "input": "Gardeners watered roses in the botanical garden at sunrise.",
+      "label": true
+    },
+    {
+      "input": "Scout troops built a bonfire at the woodland clearing last night.",
+      "label": true
+    },
+    {
+      "input": "Couples took a romantic walk by the rose garden at sunset.",
+      "label": true
+    },
+    {
+      "input": "The family assembled puzzles in their living room on Saturday evening.",
+      "label": false
+    },
+    {
+      "input": "Writers composed stories at their desks in the study late at night.",
+      "label": false
+    },
+    {
+      "input": "Yoga practitioners meditated in the heated studio before dawn.",
+      "label": false
+    },
+    {
+      "input": "Firefighters trained near the riverbank on a foggy morning.",
+      "label": true
+    },
+    {
+      "input": "Friends played video games in the basement throughout the night.",
+      "label": false
+    },
+    {
+      "input": "Gamers competed in the esports arena on Saturday afternoon.",
+      "label": false
+    },
+    {
+      "input": "A mountain biker navigated rocky trails through the canyon as the sun set.",
+      "label": true
+    },
+    {
+      "input": "Hikers admired wildflowers along the hillside trail at midday.",
+      "label": true
+    },
+    {
+      "input": "Children jumped in the ball pit at the indoor play center on the weekend.",
+      "label": false
+    },
+    {
+      "input": "A group performed yoga on the grassy meadow during sunrise.",
+      "label": true
+    },
+    {
+      "input": "The chef prepared spaghetti in the restaurant kitchen last night.",
+      "label": false
+    },
+    {
+      "input": "Professors corrected assignments in the university office last Monday.",
+      "label": false
+    },
+    {
+      "input": "Grandparents told stories to grandchildren in the nursery at bedtime.",
+      "label": false
+    },
+    {
+      "input": "Shoppers browsed clothes in the department store yesterday afternoon.",
+      "label": false
+    },
+    {
+      "input": "Students listened to lectures in the college lecture hall every Thursday.",
+      "label": false
+    },
+    {
+      "input": "Friends played frisbee on the campus lawn between classes.",
+      "label": true
+    },
+    {
+      "input": "Neighbors planted tomatoes in the community garden in the springtime.",
+      "label": true
+    },
+    {
+      "input": "Actors performed scenes on the theater stage every Friday night.",
+      "label": false
+    },
+    {
+      "input": "Workers assembled products in the factory workshop each morning.",
+      "label": false
+    }
+  ]
+}

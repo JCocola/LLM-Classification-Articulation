@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "train_ratio": 0.5,
+    "date_created": "2025-05-05T13:32:19.774682",
+    "total_examples": 72
+  },
+  "train": [
+    {
+      "input": "Enrico mangia biscotti secchi la sera.",
+      "label": "False",
+      "explanation": "(la terza parola \"biscotti\" inizia con 'b')"
+    },
+    {
+      "input": "Layla ascolta il album preferito in auto.",
+      "label": "True",
+      "explanation": "(la terza parola \"il\" inizia con 'i')"
+    },
+    {
+      "input": "Gabriele esegue salti acrobatici in palestra.",
+      "label": "False",
+      "explanation": "(la terza parola \"salti\" inizia con 's')"
+    },
+    {
+      "input": "Pietro investe energie extra nello studio.",
+      "label": "True",
+      "explanation": "(la terza parola \"energie\" inizia con 'e')"
+    },
+    {
+      "input": "Federico affronta emozioni intense durante gli esami.",
+      "label": "True",
+      "explanation": "(la terza parola \"emozioni\" inizia con 'e')"
+    },
+    {
+      "input": "Roberta aiuta bambini curiosi con i compiti.",
+      "label": "False",
+      "explanation": "(la terza parola \"bambini\" inizia con 'b')"
+    },
+    {
+      "input": "Eugenia porta dolci tipici alle feste.",
+      "label": "False",
+      "explanation": "(la terza parola \"dolci\" inizia con 'd')"
+    },
+    {
+      "input": "Giulia prende biscotti dal barattolo ogni sera.",
+      "label": "False",
+      "explanation": "(la terza parola \"biscotti\" inizia con 'b')"
+    },
+    {
+      "input": "Paola mangia torte buonissime alla festa.",
+      "label": "False",
+      "explanation": "(la terza parola \"torte\" inizia con 't')"
+    },
+    {
+      "input": "Tommaso utilizza mappe dettagliate durante le escursioni.",
+      "label": "False",
+      "explanation": "(la terza parola \"mappe\" inizia con 'm')"
+    },
+    {
+      "input": "Davide scrive lettere lunghe agli amici.",
+      "label": "False",
+      "explanation": "(la terza parola \"lettere\" inizia con 'l')"
+    },
+    {
+      "input": "Andrea compra vestiti nuovi ogni stagione.",
+      "label": "False",
+      "explanation": "(la terza parola \"vestiti\" inizia con 'v')"
+    },
+    {
+      "input": "Felice annuncia un evento importante prossima settimana.",
+      "label": "True",
+      "explanation": "(la terza parola \"un\" inizia con 'u')"
+    },
+    {
+      "input": "Gabriele entra in aula sempre puntuale.",
+      "label": "True",
+      "explanation": "(la terza parola \"in\" inizia con 'i')"
+    },
+    {
+      "input": "Veronica utilizza esperienze uniche per scrivere romanzi.",
+      "label": "True",
+      "explanation": "(la terza parola \"esperienze\" inizia con 'e')"
+    },
+    {
+      "input": "Letizia suona pianoforte classico con bravura.",
+      "label": "False",
+      "explanation": "(la terza parola \"pianoforte\" inizia con 'p')"
+    },
+    {
+      "input": "Le mamme adorano ospiti inaspettati durante le feste.",
+      "label": "True",
+      "explanation": "(la terza parola \"ospiti\" inizia con 'o')"
+    },
+    {
+      "input": "Leonardo ottiene eccellenza annuale nella scuola.",
+      "label": "True",
+      "explanation": "(la terza parola \"eccellenza\" inizia con 'e')"
+    },
+    {
+      "input": "Giorgio costruisce modellini dettagliati di navi.",
+      "label": "False",
+      "explanation": "(la terza parola \"modellini\" inizia con 'm')"
+    },
+    {
+      "input": "Lucia taglia pane fresco ogni mattina.",
+      "label": "False",
+      "explanation": "(la terza parola \"pane\" inizia con 'p')"
+    },
+    {
+      "input": "Silvia beve spremute fresche ogni mattina.",
+      "label": "False",
+      "explanation": "(la terza parola \"spremute\" inizia con 's')"
+    },
+    {
+      "input": "Manuela esprime opinioni utili a tutti.",
+      "label": "True",
+      "explanation": "(la terza parola \"opinioni\" inizia con 'o')"
+    },
+    {
+      "input": "Le ragazze indossano abiti eleganti nelle feste.",
+      "label": "True",
+      "explanation": "(la terza parola \"abiti\" inizia con 'a')"
+    },
+    {
+      "input": "Andrea pulisce pavimenti lucidi al mattino.",
+      "label": "False",
+      "explanation": "(la terza parola \"pavimenti\" inizia con 'p')"
+    },
+    {
+      "input": "Luca ama usare aggettivi creativi nei suoi testi.",
+      "label": "True",
+      "explanation": "(la terza parola \"usare\" inizia con 'u')"
+    },
+    {
+      "input": "Mario trova giochi strani nei negozi.",
+      "label": "False",
+      "explanation": "(la terza parola \"giochi\" inizia con 'g')"
+    },
+    {
+      "input": "Rossella legge romanzi gialli sulle spiagge.",
+      "label": "False",
+      "explanation": "(la terza parola \"romanzi\" inizia con 'r')"
+    },
+    {
+      "input": "Cristina affronta ostacoli enormi con coraggio.",
+      "label": "True",
+      "explanation": "(la terza parola \"ostacoli\" inizia con 'o')"
+    },
+    {
+      "input": "Camilla indossa giacche pesanti d’inverno.",
+      "label": "False",
+      "explanation": "(la terza parola \"giacche\" inizia con 'g')"
+    },
+    {
+      "input": "Alessio indossa pantaloni larghi la domenica.",
+      "label": "False",
+      "explanation": "(la terza parola \"pantaloni\" inizia con 'p')"
+    },
+    {
+      "input": "Il nonno aggiusta orologi antichi nella cantina.",
+      "label": "True",
+      "explanation": "(la terza parola \"orologi\" inizia con 'o')"
+    },
+    {
+      "input": "Andrea affronta una enorme sfida personale.",
+      "label": "True",
+      "explanation": "(la terza parola \"una\" inizia con 'u')"
+    },
+    {
+      "input": "Il padre esamina attentamente ogni documento ricevuto.",
+      "label": "True",
+      "explanation": "(la terza parola \"attentamente\" inizia con 'a')"
+    },
+    {
+      "input": "Marta cucina pasti saporiti alla domenica.",
+      "label": "False",
+      "explanation": "(la terza parola \"pasti\" inizia con 'p')"
+    },
+    {
+      "input": "Vittoria osserva il orizzonte dalla terrazza.",
+      "label": "True",
+      "explanation": "(la terza parola \"il\" inizia con 'i')"
+    },
+    {
+      "input": "Luca scrive pensieri divertenti nel diario.",
+      "label": "False",
+      "explanation": "(la terza parola \"pensieri\" inizia con 'p')"
+    }
+  ],
+  "test": [
+    {
+      "input": "Patrizia aggiorna email importanti ogni giorno.",
+      "label": "True",
+      "explanation": "(la terza parola \"email\" inizia con 'e')"
+    },
+    {
+      "input": "Nadia esprime opinioni articolate sulle arti.",
+      "label": "True",
+      "explanation": "(la terza parola \"opinioni\" inizia con 'o')"
+    },
+    {
+      "input": "Beatrice aggiorna email ogni mattina dal telefono.",
+      "label": "True",
+      "explanation": "(la terza parola \"email\" inizia con 'e')"
+    },
+    {
+      "input": "Martina entra ogni mattina felice in ufficio.",
+      "label": "True",
+      "explanation": "(la terza parola \"ogni\" inizia con 'o')"
+    },
+    {
+      "input": "Monica guida scooter veloci per andare al lavoro.",
+      "label": "False",
+      "explanation": "(la terza parola \"scooter\" inizia con 's')"
+    },
+    {
+      "input": "I ragazzi evitano inutili discussioni tra amici.",
+      "label": "True",
+      "explanation": "(la terza parola \"inutili\" inizia con 'i')"
+    },
+    {
+      "input": "Diego annusa erbe aromatiche nell’orto.",
+      "label": "True",
+      "explanation": "(la terza parola \"erbe\" inizia con 'e')"
+    },
+    {
+      "input": "Francesco ama imparare ogni giorno qualcosa di nuovo.",
+      "label": "True",
+      "explanation": "(la terza parola \"imparare\" inizia con 'i')"
+    },
+    {
+      "input": "Tommaso ordina insalate ogni volta che esce.",
+      "label": "True",
+      "explanation": "(la terza parola \"insalate\" inizia con 'i')"
+    },
+    {
+      "input": "Daniela pulisce scarpe nere con attenzione.",
+      "label": "False",
+      "explanation": "(la terza parola \"scarpe\" inizia con 's')"
+    },
+    {
+      "input": "Lorenza fotografa panorami mozzafiato in montagna.",
+      "label": "False",
+      "explanation": "(la terza parola \"panorami\" inizia con 'p')"
+    },
+    {
+      "input": "Simone porta zaini pesanti a scuola.",
+      "label": "False",
+      "explanation": "(la terza parola \"zaini\" inizia con 'z')"
+    },
+    {
+      "input": "I genitori aiutano ogni figlio durante i compiti.",
+      "label": "True",
+      "explanation": "(la terza parola \"ogni\" inizia con 'o')"
+    },
+    {
+      "input": "La sorella accende automaticamente luci esterne.",
+      "label": "True",
+      "explanation": "(la terza parola \"automaticamente\" inizia con 'a')"
+    },
+    {
+      "input": "Greta disegna stelle luminose sui fogli.",
+      "label": "False",
+      "explanation": "(la terza parola \"stelle\" inizia con 's')"
+    },
+    {
+      "input": "La mamma apprezza educazione ottimale dei figli.",
+      "label": "True",
+      "explanation": "(la terza parola \"educazione\" inizia con 'e')"
+    },
+    {
+      "input": "Matilde interpreta una emozione intensa nella recita.",
+      "label": "True",
+      "explanation": "(la terza parola \"una\" inizia con 'u')"
+    },
+    {
+      "input": "Tatiana accetta ogni idea durante il brainstorming.",
+      "label": "True",
+      "explanation": "(la terza parola \"ogni\" inizia con 'o')"
+    },
+    {
+      "input": "Martino calcola numeri grandi in matematica.",
+      "label": "False",
+      "explanation": "(la terza parola \"numeri\" inizia con 'n')"
+    },
+    {
+      "input": "Rosanna mangia carote fresche tutti i giorni.",
+      "label": "False",
+      "explanation": "(la terza parola \"carote\" inizia con 'c')"
+    },
+    {
+      "input": "Giacomo suona chitarra elettrica ogni giorno.",
+      "label": "False",
+      "explanation": "(la terza parola \"chitarra\" inizia con 'c')"
+    },
+    {
+      "input": "Sofia osserva ostriche vive nell’acquario.",
+      "label": "True",
+      "explanation": "(la terza parola \"ostriche\" inizia con 'o')"
+    },
+    {
+      "input": "Greta aggiorna ogni account regolarmente.",
+      "label": "True",
+      "explanation": "(la terza parola \"ogni\" inizia con 'o')"
+    },
+    {
+      "input": "Lucia invita amici ogni sabato sera.",
+      "label": "True",
+      "explanation": "(la terza parola \"amici\" inizia con 'a')"
+    },
+    {
+      "input": "Franco legge molti libri durante l’anno.",
+      "label": "False",
+      "explanation": "(la terza parola \"molti\" inizia con 'm')"
+    },
+    {
+      "input": "Antonella legge fumetti divertenti la domenica.",
+      "label": "False",
+      "explanation": "(la terza parola \"fumetti\" inizia con 'f')"
+    },
+    {
+      "input": "Mario abbraccia Isabella quando la incontra.",
+      "label": "True",
+      "explanation": "(la terza parola \"Isabella\" inizia con 'I')"
+    },
+    {
+      "input": "Alessia affronta un impatto emotivo improvviso.",
+      "label": "True",
+      "explanation": "(la terza parola \"un\" inizia con 'u')"
+    },
+    {
+      "input": "Noemi insegna accuratamente ogni passaggio.",
+      "label": "True",
+      "explanation": "(la terza parola \"accuratamente\" inizia con 'a')"
+    },
+    {
+      "input": "Chiara ottiene eccellenti risultati negli esami.",
+      "label": "True",
+      "explanation": "(la terza parola \"eccellenti\" inizia con 'e')"
+    },
+    {
+      "input": "Mirco esegue operazioni aritmetiche senza errori.",
+      "label": "True",
+      "explanation": "(la terza parola \"operazioni\" inizia con 'o')"
+    },
+    {
+      "input": "I bambini utilizzano oggetti insoliti per giocare.",
+      "label": "True",
+      "explanation": "(la terza parola \"oggetti\" inizia con 'o')"
+    },
+    {
+      "input": "Veronica riceve pacchi grandi ogni mese.",
+      "label": "False",
+      "explanation": "(la terza parola \"pacchi\" inizia con 'p')"
+    },
+    {
+      "input": "I cugini ignorano eventuali malintesi.",
+      "label": "True",
+      "explanation": "(la terza parola \"eventuali\" inizia con 'e')"
+    },
+    {
+      "input": "Matteo ordina una omelette al ristorante.",
+      "label": "True",
+      "explanation": "(la terza parola \"una\" inizia con 'u')"
+    },
+    {
+      "input": "Federica compra tovaglie eleganti per la tavola.",
+      "label": "False",
+      "explanation": "(la terza parola \"tovaglie\" inizia con 't')"
+    }
+  ]
+}

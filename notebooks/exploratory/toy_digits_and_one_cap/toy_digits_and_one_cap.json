@@ -1,0 +1,406 @@
+{
+  "train": [
+    {
+      "input": "108362",
+      "label": false
+    },
+    {
+      "input": "870873",
+      "label": false
+    },
+    {
+      "input": "654876",
+      "label": false
+    },
+    {
+      "input": "898991",
+      "label": false
+    },
+    {
+      "input": "N42330",
+      "label": true
+    },
+    {
+      "input": "342008",
+      "label": false
+    },
+    {
+      "input": "633J76",
+      "label": true
+    },
+    {
+      "input": "525H27",
+      "label": true
+    },
+    {
+      "input": "825213",
+      "label": false
+    },
+    {
+      "input": "6357W3",
+      "label": true
+    },
+    {
+      "input": "7025Y3",
+      "label": true
+    },
+    {
+      "input": "5C1905",
+      "label": true
+    },
+    {
+      "input": "431740",
+      "label": false
+    },
+    {
+      "input": "201877",
+      "label": false
+    },
+    {
+      "input": "752698",
+      "label": false
+    },
+    {
+      "input": "434252",
+      "label": false
+    },
+    {
+      "input": "725408",
+      "label": false
+    },
+    {
+      "input": "958E38",
+      "label": true
+    },
+    {
+      "input": "89273B",
+      "label": true
+    },
+    {
+      "input": "448560",
+      "label": false
+    },
+    {
+      "input": "242399",
+      "label": false
+    },
+    {
+      "input": "263837",
+      "label": false
+    },
+    {
+      "input": "228388",
+      "label": false
+    },
+    {
+      "input": "964R48",
+      "label": true
+    },
+    {
+      "input": "203126",
+      "label": false
+    },
+    {
+      "input": "B41826",
+      "label": true
+    },
+    {
+      "input": "770468",
+      "label": false
+    },
+    {
+      "input": "570611",
+      "label": false
+    },
+    {
+      "input": "4J8388",
+      "label": true
+    },
+    {
+      "input": "674283",
+      "label": false
+    },
+    {
+      "input": "115359",
+      "label": false
+    },
+    {
+      "input": "323922",
+      "label": false
+    },
+    {
+      "input": "4413A0",
+      "label": true
+    },
+    {
+      "input": "020521",
+      "label": false
+    },
+    {
+      "input": "332113",
+      "label": false
+    },
+    {
+      "input": "681116",
+      "label": false
+    },
+    {
+      "input": "335972",
+      "label": false
+    },
+    {
+      "input": "234773",
+      "label": false
+    },
+    {
+      "input": "0673F6",
+      "label": true
+    },
+    {
+      "input": "D95719",
+      "label": true
+    },
+    {
+      "input": "F23737",
+      "label": true
+    },
+    {
+      "input": "55U251",
+      "label": true
+    },
+    {
+      "input": "261602",
+      "label": false
+    },
+    {
+      "input": "382972",
+      "label": false
+    },
+    {
+      "input": "5S5198",
+      "label": true
+    },
+    {
+      "input": "806719",
+      "label": false
+    },
+    {
+      "input": "903814",
+      "label": false
+    },
+    {
+      "input": "843583",
+      "label": false
+    },
+    {
+      "input": "110298",
+      "label": false
+    },
+    {
+      "input": "51L011",
+      "label": true
+    }
+  ],
+  "test": [
+    {
+      "input": "633159",
+      "label": false
+    },
+    {
+      "input": "169593",
+      "label": false
+    },
+    {
+      "input": "567401",
+      "label": false
+    },
+    {
+      "input": "7T5143",
+      "label": true
+    },
+    {
+      "input": "0940U6",
+      "label": true
+    },
+    {
+      "input": "A20602",
+      "label": true
+    },
+    {
+      "input": "95678Y",
+      "label": true
+    },
+    {
+      "input": "18J864",
+      "label": true
+    },
+    {
+      "input": "61M545",
+      "label": true
+    },
+    {
+      "input": "095085",
+      "label": false
+    },
+    {
+      "input": "930234",
+      "label": false
+    },
+    {
+      "input": "864958",
+      "label": false
+    },
+    {
+      "input": "8482R6",
+      "label": true
+    },
+    {
+      "input": "963060",
+      "label": false
+    },
+    {
+      "input": "M11669",
+      "label": true
+    },
+    {
+      "input": "556358",
+      "label": false
+    },
+    {
+      "input": "5K6510",
+      "label": true
+    },
+    {
+      "input": "1D7332",
+      "label": true
+    },
+    {
+      "input": "7Z9132",
+      "label": true
+    },
+    {
+      "input": "95747M",
+      "label": true
+    },
+    {
+      "input": "931379",
+      "label": false
+    },
+    {
+      "input": "881479",
+      "label": false
+    },
+    {
+      "input": "138G80",
+      "label": true
+    },
+    {
+      "input": "052851",
+      "label": false
+    },
+    {
+      "input": "393027",
+      "label": false
+    },
+    {
+      "input": "6U5855",
+      "label": true
+    },
+    {
+      "input": "69M107",
+      "label": true
+    },
+    {
+      "input": "111278",
+      "label": false
+    },
+    {
+      "input": "246301",
+      "label": false
+    },
+    {
+      "input": "15J864",
+      "label": true
+    },
+    {
+      "input": "481562",
+      "label": false
+    },
+    {
+      "input": "876771",
+      "label": false
+    },
+    {
+      "input": "6086F3",
+      "label": true
+    },
+    {
+      "input": "586937",
+      "label": false
+    },
+    {
+      "input": "289822",
+      "label": false
+    },
+    {
+      "input": "432062",
+      "label": false
+    },
+    {
+      "input": "86498L",
+      "label": true
+    },
+    {
+      "input": "241600",
+      "label": false
+    },
+    {
+      "input": "436H16",
+      "label": true
+    },
+    {
+      "input": "180230",
+      "label": false
+    },
+    {
+      "input": "Q36123",
+      "label": true
+    },
+    {
+      "input": "230297",
+      "label": false
+    },
+    {
+      "input": "M85749",
+      "label": true
+    },
+    {
+      "input": "K41777",
+      "label": true
+    },
+    {
+      "input": "40362C",
+      "label": true
+    },
+    {
+      "input": "52Z863",
+      "label": true
+    },
+    {
+      "input": "27U114",
+      "label": true
+    },
+    {
+      "input": "414712",
+      "label": false
+    },
+    {
+      "input": "6857M9",
+      "label": true
+    },
+    {
+      "input": "381197",
+      "label": false
+    }
+  ]
+}

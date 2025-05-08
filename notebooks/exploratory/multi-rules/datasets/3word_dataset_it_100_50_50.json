@@ -1,0 +1,165 @@
+{
+  "train": [],
+  "test": [
+    {
+      "input": "He introduced Olivia at the ceremony.",
+      "label": true
+    },
+    {
+      "input": "Farmers drive large tractors across the fields.",
+      "label": false
+    },
+    {
+      "input": "The pilot spotted distant landmarks during the flight.",
+      "label": false
+    },
+    {
+      "input": "Linda assigns important work to her team weekly.",
+      "label": true
+    },
+    {
+      "input": "That musician played joyful melodies last night.",
+      "label": false
+    },
+    {
+      "input": "Parents offer invaluable support to their children.",
+      "label": true
+    },
+    {
+      "input": "The dog chased wild rabbits through the field.",
+      "label": false
+    },
+    {
+      "input": "Workers carry heavy materials up the ladder.",
+      "label": false
+    },
+    {
+      "input": "Jasmine ordered ice-cream after dinner yesterday.",
+      "label": true
+    },
+    {
+      "input": "Drivers encountered unexpected obstacles on the bridge.",
+      "label": true
+    },
+    {
+      "input": "The crew accepted urgent assignments last week.",
+      "label": true
+    },
+    {
+      "input": "Students admire brave teachers who inspire them.",
+      "label": false
+    },
+    {
+      "input": "Mark grew delicious tomatoes in his backyard.",
+      "label": false
+    },
+    {
+      "input": "Lily found several treasures beneath the sand.",
+      "label": false
+    },
+    {
+      "input": "My sister collects vintage stamps from Europe.",
+      "label": false
+    },
+    {
+      "input": "The committee examined unusual proposals carefully yesterday.",
+      "label": true
+    },
+    {
+      "input": "Roberta organized efficient meetings every Monday.",
+      "label": true
+    },
+    {
+      "input": "Timothy offered irresistible treats to his puppy.",
+      "label": true
+    },
+    {
+      "input": "The library hosts special events twice monthly.",
+      "label": false
+    },
+    {
+      "input": "Students invented amazing devices for the science fair.",
+      "label": true
+    },
+    {
+      "input": "Children played noisy games in the park.",
+      "label": false
+    },
+    {
+      "input": "Engineers operate advanced equipment safely.",
+      "label": true
+    },
+    {
+      "input": "Tourists explored ancient ruins during their trip.",
+      "label": true
+    },
+    {
+      "input": "Cats enjoy outdoor naps during warm afternoons.",
+      "label": true
+    },
+    {
+      "input": "Michael assisted injured hikers on the mountain trail.",
+      "label": true
+    },
+    {
+      "input": "Teachers encourage persistent effort from all learners.",
+      "label": false
+    },
+    {
+      "input": "Liam purchased old books at the market.",
+      "label": false
+    },
+    {
+      "input": "She attached elegant ribbons to each bouquet.",
+      "label": true
+    },
+    {
+      "input": "Clara baked enormous cookies for the party.",
+      "label": false
+    },
+    {
+      "input": "Rachel noticed broken branches after the storm.",
+      "label": false
+    },
+    {
+      "input": "David earned outstanding grades this semester.",
+      "label": true
+    },
+    {
+      "input": "Martin explored famous landmarks along the river.",
+      "label": false
+    },
+    {
+      "input": "We watched colorful sunsets over the ocean.",
+      "label": false
+    },
+    {
+      "input": "Sara explained unusual topics in the class discussion.",
+      "label": true
+    },
+    {
+      "input": "Jacob built sturdy fences around his property.",
+      "label": false
+    },
+    {
+      "input": "The chef prepared fresh salads every day.",
+      "label": false
+    },
+    {
+      "input": "Train engineers maintain powerful engines carefully.",
+      "label": false
+    },
+    {
+      "input": "Maria adopted energetic cats from the shelter.",
+      "label": true
+    },
+    {
+      "input": "Doctors analyze illnesses using advanced techniques.",
+      "label": true
+    },
+    {
+      "input": "Emily painted bright pictures on large canvases.",
+      "label": false
+    }
+  ]
+}

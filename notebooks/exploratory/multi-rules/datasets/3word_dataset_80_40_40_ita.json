@@ -1,0 +1,326 @@
+{
+  "train": [
+    {
+      "input": "Andrea scrive lettere personalizzate agli amici.",
+      "label": false
+    },
+    {
+      "input": "Luca trova monete antiche nel giardino.",
+      "label": false
+    },
+    {
+      "input": "Le allieve disegnano farfalle colorate nel quaderno.",
+      "label": false
+    },
+    {
+      "input": "Mia madre offre una ombra fresca sotto il pino.",
+      "label": true
+    },
+    {
+      "input": "La nonna ama insegnare inglese ai nipoti.",
+      "label": true
+    },
+    {
+      "input": "I soldati portano zaini pesanti sulle spalle.",
+      "label": false
+    },
+    {
+      "input": "Il gatto graffia divano nuovo ogni notte.",
+      "label": false
+    },
+    {
+      "input": "Quel negozio offre utili informazioni ai clienti.",
+      "label": true
+    },
+    {
+      "input": "Tu impari ogni argomento con impegno.",
+      "label": true
+    },
+    {
+      "input": "Federica esprime un\u2019opinione autorevole durante la riunione.",
+      "label": true
+    },
+    {
+      "input": "Sandra legge libri illustrati ai bambini.",
+      "label": false
+    },
+    {
+      "input": "Corrado visita un ospedale vicino al centro.",
+      "label": true
+    },
+    {
+      "input": "Chiara adora balli tipici dell\u2019America latina.",
+      "label": false
+    },
+    {
+      "input": "Alessandro compra scarpe nuove ogni mese.",
+      "label": false
+    },
+    {
+      "input": "I musicisti suonano brani celebri al festival.",
+      "label": false
+    },
+    {
+      "input": "Martina esplora isole greche durante le vacanze.",
+      "label": true
+    },
+    {
+      "input": "Il professore accetta una opinione alternativa.",
+      "label": true
+    },
+    {
+      "input": "Giulia racconta emozionanti storie davanti al camino.",
+      "label": true
+    },
+    {
+      "input": "Paolo osserva una aquila sopra la montagna.",
+      "label": true
+    },
+    {
+      "input": "Roberto osserva attentamente ogni attivit\u00e0.",
+      "label": true
+    },
+    {
+      "input": "Benedetta protegge un elefante al rifugio.",
+      "label": true
+    },
+    {
+      "input": "La compagnia utilizza autobus elettrici in citt\u00e0.",
+      "label": true
+    },
+    {
+      "input": "Luca usa energia rinnovabile nella sua casa.",
+      "label": true
+    },
+    {
+      "input": "La donna legge romanzi gialli di notte.",
+      "label": false
+    },
+    {
+      "input": "I ragazzi ordinate antipasti prima del pranzo principale.",
+      "label": true
+    },
+    {
+      "input": "Il bimbo raccoglie conchiglie sulla spiaggia.",
+      "label": false
+    },
+    {
+      "input": "Gli insegnanti trovano soluzioni brillanti ai problemi.",
+      "label": false
+    },
+    {
+      "input": "Io preparo dolci diversi ogni settimana.",
+      "label": false
+    },
+    {
+      "input": "La sorella costruisce barchette di carta.",
+      "label": false
+    },
+    {
+      "input": "Gli atleti vincono medaglie ogni gara.",
+      "label": false
+    },
+    {
+      "input": "I ragazzi puliscono finestre grandi della scuola.",
+      "label": false
+    },
+    {
+      "input": "Mio padre ordina una aranciata ghiacciata d\u2019estate.",
+      "label": true
+    },
+    {
+      "input": "Giacomo mangia pane tostato con marmellata.",
+      "label": false
+    },
+    {
+      "input": "Martina raccoglie foglie rosse durante l\u2019autunno.",
+      "label": false
+    },
+    {
+      "input": "Le sorelle esaminano ampolle antiche nella soffitta.",
+      "label": true
+    },
+    {
+      "input": "Federico studia testi antichi al museo.",
+      "label": false
+    },
+    {
+      "input": "Valeria beve succhi freschi d\u2019arancia.",
+      "label": false
+    },
+    {
+      "input": "Alessia organizza incontri ogni mese in centro.",
+      "label": true
+    },
+    {
+      "input": "Quei bambini entrano ordinatamente in aula ogni mattina.",
+      "label": true
+    },
+    {
+      "input": "Lei sistema quadri moderni nel salotto.",
+      "label": false
+    }
+  ],
+  "test": [
+    {
+      "input": "L\u2019impiegato invia email urgenti al capo.",
+      "label": true
+    },
+    {
+      "input": "Andrea vende quadri d\u2019autore ogni fiera.",
+      "label": false
+    },
+    {
+      "input": "Le ragazze decorano biscotti natalizi insieme.",
+      "label": false
+    },
+    {
+      "input": "Il giovane scrive poesie malinconiche.",
+      "label": false
+    },
+    {
+      "input": "L\u2019infermiere lega fasce sulle braccia.",
+      "label": false
+    },
+    {
+      "input": "Tuo nonno coltiva piante aromatiche sul balcone.",
+      "label": false
+    },
+    {
+      "input": "I viaggiatori attraversano oceani infiniti sulle navi.",
+      "label": true
+    },
+    {
+      "input": "Noi portiamo valigie pesanti in viaggio.",
+      "label": false
+    },
+    {
+      "input": "Il cameriere prepara tavoli puliti per la cena.",
+      "label": false
+    },
+    {
+      "input": "Il cane entra impaziente in casa ogni mattina.",
+      "label": true
+    },
+    {
+      "input": "La barista serve cappuccini caldi ogni mattina.",
+      "label": false
+    },
+    {
+      "input": "Tuo fratello indossa maglioni spessi d\u2019inverno.",
+      "label": false
+    },
+    {
+      "input": "Tu ricevi pacchi misteriosi da lontano.",
+      "label": false
+    },
+    {
+      "input": "Mamma pulisce piatti subito dopo cena.",
+      "label": false
+    },
+    {
+      "input": "Quel pittore esegue opere astratte magnifiche.",
+      "label": true
+    },
+    {
+      "input": "Beatrice acquista arredamento artigianale al mercato.",
+      "label": true
+    },
+    {
+      "input": "Barbara canta canzoni allegre in macchina.",
+      "label": false
+    },
+    {
+      "input": "Le maestre assegnano esercizi difficili agli studenti.",
+      "label": true
+    },
+    {
+      "input": "Stefano legge quotidiani online la mattina.",
+      "label": false
+    },
+    {
+      "input": "Sara utilizza internet frequentemente per lavorare.",
+      "label": true
+    },
+    {
+      "input": "Lorena compra abiti online con sconti.",
+      "label": true
+    },
+    {
+      "input": "Livia ordina pizza margherita ogni sabato.",
+      "label": false
+    },
+    {
+      "input": "Mario ama ascoltare opere liriche la sera.",
+      "label": true
+    },
+    {
+      "input": "Mariella cucina tortellini freschi ogni domenica.",
+      "label": false
+    },
+    {
+      "input": "Valentina offre esempi efficaci durante la spiegazione.",
+      "label": true
+    },
+    {
+      "input": "Simone compra biscotti integrali alla mattina.",
+      "label": false
+    },
+    {
+      "input": "Tu ottieni incredibili risultati grazie allo studio.",
+      "label": true
+    },
+    {
+      "input": "Lucia invia pacchetti regalo con gioia.",
+      "label": false
+    },
+    {
+      "input": "Mio cugino affitta appartamenti eleganti vicino al mare.",
+      "label": true
+    },
+    {
+      "input": "Il giardiniere annaffia ortensie ogni mattina.",
+      "label": true
+    },
+    {
+      "input": "Il venditore offre inoltre ottimi consigli pratici.",
+      "label": true
+    },
+    {
+      "input": "Tu possiedi una automobile molto affidabile.",
+      "label": true
+    },
+    {
+      "input": "Francesco porta insalata fresca al picnic di domenica.",
+      "label": true
+    },
+    {
+      "input": "Ginevra accoglie ospiti entusiasti nella sua casa.",
+      "label": true
+    },
+    {
+      "input": "Io cucino torte al cioccolato spesso.",
+      "label": false
+    },
+    {
+      "input": "Antonio sceglie magliette comode per la palestra.",
+      "label": false
+    },
+    {
+      "input": "Silvia indossa eleganti orecchini durante la festa.",
+      "label": true
+    },
+    {
+      "input": "I tecnici aggiungono elementi innovativi ai progetti.",
+      "label": true
+    },
+    {
+      "input": "Il piccolo utilizza una agenda digitale.",
+      "label": true
+    },
+    {
+      "input": "Il direttore annuncia un evento speciale domani.",
+      "label": true
+    }
+  ]
+}

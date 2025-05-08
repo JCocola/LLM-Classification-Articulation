@@ -1,0 +1,70 @@
+{
+  "train": [
+    {
+      "input": "Grandpa enjoys reading mystery novels indoors.",
+      "label": false
+    },
+    {
+      "input": "She traveled across western Europe last summer.",
+      "label": false
+    },
+    {
+      "input": "Kevin inherited old coins from his grandfather.",
+      "label": true
+    },
+    {
+      "input": "The children played soccer until sunset.",
+      "label": false
+    },
+    {
+      "input": "The chef added extra spices to the soup.",
+      "label": true
+    },
+    {
+      "input": "The dog chased friendly puppies at the park.",
+      "label": false
+    },
+    {
+      "input": "Daniel offered unusual solutions during the meeting.",
+      "label": true
+    },
+    {
+      "input": "Alice reads interesting books every month.",
+      "label": true
+    }
+  ],
+  "test": [
+    {
+      "input": "The students assembled enormous projects for the science fair.",
+      "label": true
+    },
+    {
+      "input": "Emily brought thick blankets to the picnic.",
+      "label": false
+    },
+    {
+      "input": "Sarah noticed orange paint on the classroom wall.",
+      "label": true
+    },
+    {
+      "input": "My friends enjoyed outdoor activities all weekend.",
+      "label": true
+    },
+    {
+      "input": "Grandma baked apple pie on Saturday.",
+      "label": true
+    },
+    {
+      "input": "Thomas fixed broken equipment in the lab.",
+      "label": false
+    },
+    {
+      "input": "Lucas painted green chairs for the patio.",
+      "label": false
+    },
+    {
+      "input": "Maria collected colorful shells at the beach.",
+      "label": false
+    }
+  ]
+}

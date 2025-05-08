@@ -1,0 +1,150 @@
+{"messages": [{"role": "user", "content": "Classify: Giorgia indossa abiti colorati ogni mattina."}, {"role": "assistant", "content": "True. (la terza parola \"abiti\" inizia con 'a')"}]}
+{"messages": [{"role": "user", "content": "Classify: Marco beve enormi quantità d’acqua dopo lo sport."}, {"role": "assistant", "content": "True. (la terza parola \"enormi\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Gli studenti ascoltano interessati la lezione di storia."}, {"role": "assistant", "content": "True. (la terza parola \"interessati\" inizia con 'i')"}]}
+{"messages": [{"role": "user", "content": "Classify: Il bambino abbraccia entusiasta il suo cane appena tornato."}, {"role": "assistant", "content": "True. (la terza parola \"abbraccia\" inizia con 'a')"}]}
+{"messages": [{"role": "user", "content": "Classify: Marta organizza eventi artistici in centro città."}, {"role": "assistant", "content": "True. (la terza parola \"eventi\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Paolo osserva attentamente il dipinto sul muro."}, {"role": "assistant", "content": "True. (la terza parola \"attentamente\" inizia con 'a')"}]}
+{"messages": [{"role": "user", "content": "Classify: Francesco ama imparare ogni giorno qualcosa di nuovo."}, {"role": "assistant", "content": "True. (la terza parola \"imparare\" inizia con 'i')"}]}
+{"messages": [{"role": "user", "content": "Classify: Carla utilizza ingredienti esotici per cucinare la cena."}, {"role": "assistant", "content": "True. (la terza parola \"ingredienti\" inizia con 'i')"}]}
+{"messages": [{"role": "user", "content": "Classify: I ragazzi evitano inutili discussioni tra amici."}, {"role": "assistant", "content": "True. (la terza parola \"inutili\" inizia con 'i')"}]}
+{"messages": [{"role": "user", "content": "Classify: Michele incontra Antonio spesso dopo il lavoro."}, {"role": "assistant", "content": "True. (la terza parola \"Antonio\" inizia con 'A')"}]}
+{"messages": [{"role": "user", "content": "Classify: Luisa apre entusiasta ogni regalo di compleanno."}, {"role": "assistant", "content": "True. (la terza parola \"entusiasta\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Sofia osserva ostriche vive nell’acquario."}, {"role": "assistant", "content": "True. (la terza parola \"ostriche\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Diego annusa erbe aromatiche nell’orto."}, {"role": "assistant", "content": "True. (la terza parola \"erbe\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Noemi insegna accuratamente ogni passaggio."}, {"role": "assistant", "content": "True. (la terza parola \"accuratamente\" inizia con 'a')"}]}
+{"messages": [{"role": "user", "content": "Classify: Giulia organizza un incontro annuale tra amici."}, {"role": "assistant", "content": "True. (la terza parola \"un\" inizia con 'u')"}]}
+{"messages": [{"role": "user", "content": "Classify: Federico affronta emozioni intense durante gli esami."}, {"role": "assistant", "content": "True. (la terza parola \"emozioni\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Il nonno aggiusta orologi antichi nella cantina."}, {"role": "assistant", "content": "True. (la terza parola \"orologi\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Valeria ama esplorare isole sconosciute."}, {"role": "assistant", "content": "True. (la terza parola \"esplorare\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Pietro investe energie extra nello studio."}, {"role": "assistant", "content": "True. (la terza parola \"energie\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Monica ascolta Elena mentre racconta viaggi."}, {"role": "assistant", "content": "True. (la terza parola \"Elena\" inizia con 'E')"}]}
+{"messages": [{"role": "user", "content": "Classify: I genitori aiutano ogni figlio durante i compiti."}, {"role": "assistant", "content": "True. (la terza parola \"ogni\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Stefano ama osservare uccelli migratori."}, {"role": "assistant", "content": "True. (la terza parola \"osservare\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Lucia invita amici ogni sabato sera."}, {"role": "assistant", "content": "True. (la terza parola \"amici\" inizia con 'a')"}]}
+{"messages": [{"role": "user", "content": "Classify: Chiara ottiene eccellenti risultati negli esami."}, {"role": "assistant", "content": "True. (la terza parola \"eccellenti\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Gabriele entra in aula sempre puntuale."}, {"role": "assistant", "content": "True. (la terza parola \"in\" inizia con 'i')"}]}
+{"messages": [{"role": "user", "content": "Classify: Luca ama usare aggettivi creativi nei suoi testi."}, {"role": "assistant", "content": "True. (la terza parola \"usare\" inizia con 'u')"}]}
+{"messages": [{"role": "user", "content": "Classify: Nadia esprime opinioni articolate sulle arti."}, {"role": "assistant", "content": "True. (la terza parola \"opinioni\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Elena intona una allegra canzone di Natale."}, {"role": "assistant", "content": "True. (la terza parola \"una\" inizia con 'u')"}]}
+{"messages": [{"role": "user", "content": "Classify: Tommaso ordina insalate ogni volta che esce."}, {"role": "assistant", "content": "True. (la terza parola \"insalate\" inizia con 'i')"}]}
+{"messages": [{"role": "user", "content": "Classify: Rebecca ascolta opera italiana durante la sera."}, {"role": "assistant", "content": "True. (la terza parola \"opera\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Il padre esamina attentamente ogni documento ricevuto."}, {"role": "assistant", "content": "True. (la terza parola \"attentamente\" inizia con 'a')"}]}
+{"messages": [{"role": "user", "content": "Classify: Vittoria osserva il orizzonte dalla terrazza."}, {"role": "assistant", "content": "True. (la terza parola \"il\" inizia con 'i')"}]}
+{"messages": [{"role": "user", "content": "Classify: Samuele utilizza un antico vocabolario per tradurre."}, {"role": "assistant", "content": "True. (la terza parola \"un\" inizia con 'u')"}]}
+{"messages": [{"role": "user", "content": "Classify: Martina entra ogni mattina felice in ufficio."}, {"role": "assistant", "content": "True. (la terza parola \"ogni\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Andrea affronta una enorme sfida personale."}, {"role": "assistant", "content": "True. (la terza parola \"una\" inizia con 'u')"}]}
+{"messages": [{"role": "user", "content": "Classify: I cugini ignorano eventuali malintesi."}, {"role": "assistant", "content": "True. (la terza parola \"eventuali\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Le ragazze indossano abiti eleganti nelle feste."}, {"role": "assistant", "content": "True. (la terza parola \"abiti\" inizia con 'a')"}]}
+{"messages": [{"role": "user", "content": "Classify: Miriam organizza interviste accurate per il giornale scolastico."}, {"role": "assistant", "content": "True. (la terza parola \"interviste\" inizia con 'i')"}]}
+{"messages": [{"role": "user", "content": "Classify: Giacomo annuncia eventi ufficiali con entusiasmo."}, {"role": "assistant", "content": "True. (la terza parola \"eventi\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Sara osserva elefantini giocare al parco."}, {"role": "assistant", "content": "True. (la terza parola \"elefantini\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Domenico insegna utilizzo efficace dei computer."}, {"role": "assistant", "content": "True. (la terza parola \"utilizzo\" inizia con 'u')"}]}
+{"messages": [{"role": "user", "content": "Classify: Le mamme adorano ospiti inaspettati durante le feste."}, {"role": "assistant", "content": "True. (la terza parola \"ospiti\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Il professore emette ordini urgenti in classe."}, {"role": "assistant", "content": "True. (la terza parola \"ordini\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Beatrice aggiorna email ogni mattina dal telefono."}, {"role": "assistant", "content": "True. (la terza parola \"email\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Mario abbraccia Isabella quando la incontra."}, {"role": "assistant", "content": "True. (la terza parola \"Isabella\" inizia con 'I')"}]}
+{"messages": [{"role": "user", "content": "Classify: Susanna ospita amici inglesi ogni estate."}, {"role": "assistant", "content": "True. (la terza parola \"amici\" inizia con 'a')"}]}
+{"messages": [{"role": "user", "content": "Classify: Il direttore interroga ogni impiegato singolarmente."}, {"role": "assistant", "content": "True. (la terza parola \"ogni\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Leonardo ottiene eccellenza annuale nella scuola."}, {"role": "assistant", "content": "True. (la terza parola \"eccellenza\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Matteo ordina una omelette al ristorante."}, {"role": "assistant", "content": "True. (la terza parola \"una\" inizia con 'u')"}]}
+{"messages": [{"role": "user", "content": "Classify: Lavinia ascolta orchestra eseguire brani classici."}, {"role": "assistant", "content": "True. (la terza parola \"orchestra\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: La sorella accende automaticamente luci esterne."}, {"role": "assistant", "content": "True. (la terza parola \"automaticamente\" inizia con 'a')"}]}
+{"messages": [{"role": "user", "content": "Classify: Emilio inizializza unità esterne tramite computer."}, {"role": "assistant", "content": "True. (la terza parola \"unità\" inizia con 'u')"}]}
+{"messages": [{"role": "user", "content": "Classify: Il cuoco aggiunge olio extra alle pietanze."}, {"role": "assistant", "content": "True. (la terza parola \"olio\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Veronica utilizza esperienze uniche per scrivere romanzi."}, {"role": "assistant", "content": "True. (la terza parola \"esperienze\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Alessia affronta un impatto emotivo improvviso."}, {"role": "assistant", "content": "True. (la terza parola \"un\" inizia con 'u')"}]}
+{"messages": [{"role": "user", "content": "Classify: La mamma apprezza educazione ottimale dei figli."}, {"role": "assistant", "content": "True. (la terza parola \"educazione\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Mirco esegue operazioni aritmetiche senza errori."}, {"role": "assistant", "content": "True. (la terza parola \"operazioni\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Tatiana accetta ogni idea durante il brainstorming."}, {"role": "assistant", "content": "True. (la terza parola \"ogni\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Valerio osserva attentamente ogni cambiamento."}, {"role": "assistant", "content": "True. (la terza parola \"attentamente\" inizia con 'a')"}]}
+{"messages": [{"role": "user", "content": "Classify: I bambini utilizzano oggetti insoliti per giocare."}, {"role": "assistant", "content": "True. (la terza parola \"oggetti\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Silvia organizza incontri annuali tra amici."}, {"role": "assistant", "content": "True. (la terza parola \"incontri\" inizia con 'i')"}]}
+{"messages": [{"role": "user", "content": "Classify: Luciano esamina ogni opera esposta al museo."}, {"role": "assistant", "content": "True. (la terza parola \"ogni\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Patrizia aggiorna email importanti ogni giorno."}, {"role": "assistant", "content": "True. (la terza parola \"email\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Cristina affronta ostacoli enormi con coraggio."}, {"role": "assistant", "content": "True. (la terza parola \"ostacoli\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Omar utilizza alcune erbe in cucina."}, {"role": "assistant", "content": "True. (la terza parola \"alcune\" inizia con 'a')"}]}
+{"messages": [{"role": "user", "content": "Classify: Gabriella osserva un allievo sollevare pesi."}, {"role": "assistant", "content": "True. (la terza parola \"un\" inizia con 'u')"}]}
+{"messages": [{"role": "user", "content": "Classify: Massimo apprezza esibizioni originali sul palco."}, {"role": "assistant", "content": "True. (la terza parola \"esibizioni\" inizia con 'e')"}]}
+{"messages": [{"role": "user", "content": "Classify: Layla ascolta il album preferito in auto."}, {"role": "assistant", "content": "True. (la terza parola \"il\" inizia con 'i')"}]}
+{"messages": [{"role": "user", "content": "Classify: Felice annuncia un evento importante prossima settimana."}, {"role": "assistant", "content": "True. (la terza parola \"un\" inizia con 'u')"}]}
+{"messages": [{"role": "user", "content": "Classify: Daria osserva alcuni insetti colorati sulle piante."}, {"role": "assistant", "content": "True. (la terza parola \"alcuni\" inizia con 'a')"}]}
+{"messages": [{"role": "user", "content": "Classify: Matilde interpreta una emozione intensa nella recita."}, {"role": "assistant", "content": "True. (la terza parola \"una\" inizia con 'u')"}]}
+{"messages": [{"role": "user", "content": "Classify: Greta aggiorna ogni account regolarmente."}, {"role": "assistant", "content": "True. (la terza parola \"ogni\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Sergio educa allievi universitari con passione."}, {"role": "assistant", "content": "True. (la terza parola \"allievi\" inizia con 'a')"}]}
+{"messages": [{"role": "user", "content": "Classify: Manuela esprime opinioni utili a tutti."}, {"role": "assistant", "content": "True. (la terza parola \"opinioni\" inizia con 'o')"}]}
+{"messages": [{"role": "user", "content": "Classify: Camilla esegue un esercizio accurato prima della gara."}, {"role": "assistant", "content": "True. (la terza parola \"un\" inizia con 'u')"}]}
+{"messages": [{"role": "user", "content": "Classify: Andrea compra vestiti nuovi ogni stagione."}, {"role": "assistant", "content": "False. (la terza parola \"vestiti\" inizia con 'v')"}]}
+{"messages": [{"role": "user", "content": "Classify: Sara lavora duramente per raggiungere i suoi sogni."}, {"role": "assistant", "content": "False. (la terza parola \"duramente\" inizia con 'd')"}]}
+{"messages": [{"role": "user", "content": "Classify: Franco legge molti libri durante l’anno."}, {"role": "assistant", "content": "False. (la terza parola \"molti\" inizia con 'm')"}]}
+{"messages": [{"role": "user", "content": "Classify: Giulia prende biscotti dal barattolo ogni sera."}, {"role": "assistant", "content": "False. (la terza parola \"biscotti\" inizia con 'b')"}]}
+{"messages": [{"role": "user", "content": "Classify: Luca scrive pensieri divertenti nel diario."}, {"role": "assistant", "content": "False. (la terza parola \"pensieri\" inizia con 'p')"}]}
+{"messages": [{"role": "user", "content": "Classify: Marta cucina pasti saporiti alla domenica."}, {"role": "assistant", "content": "False. (la terza parola \"pasti\" inizia con 'p')"}]}
+{"messages": [{"role": "user", "content": "Classify: Elena raccoglie fiori freschi di campo."}, {"role": "assistant", "content": "False. (la terza parola \"fiori\" inizia con 'f')"}]}
+{"messages": [{"role": "user", "content": "Classify: Lorenzo visita parchi cittadini nel tempo libero."}, {"role": "assistant", "content": "False. (la terza parola \"parchi\" inizia con 'p')"}]}
+{"messages": [{"role": "user", "content": "Classify: I ragazzi comprano gelati freddi d'estate."}, {"role": "assistant", "content": "False. (la terza parola \"gelati\" inizia con 'g')"}]}
+{"messages": [{"role": "user", "content": "Classify: Giorgio costruisce modellini dettagliati di navi."}, {"role": "assistant", "content": "False. (la terza parola \"modellini\" inizia con 'm')"}]}
+{"messages": [{"role": "user", "content": "Classify: Paola mangia torte buonissime alla festa."}, {"role": "assistant", "content": "False. (la terza parola \"torte\" inizia con 't')"}]}
+{"messages": [{"role": "user", "content": "Classify: Silvio cerca libri rari nelle librerie storiche."}, {"role": "assistant", "content": "False. (la terza parola \"libri\" inizia con 'l')"}]}
+{"messages": [{"role": "user", "content": "Classify: Clarissa balla tango argentino con passione."}, {"role": "assistant", "content": "False. (la terza parola \"tango\" inizia con 't')"}]}
+{"messages": [{"role": "user", "content": "Classify: Davide accende lampade soffuse in soggiorno."}, {"role": "assistant", "content": "False. (la terza parola \"lampade\" inizia con 'l')"}]}
+{"messages": [{"role": "user", "content": "Classify: Daniela pulisce scarpe nere con attenzione."}, {"role": "assistant", "content": "False. (la terza parola \"scarpe\" inizia con 's')"}]}
+{"messages": [{"role": "user", "content": "Classify: Mario trova giochi strani nei negozi."}, {"role": "assistant", "content": "False. (la terza parola \"giochi\" inizia con 'g')"}]}
+{"messages": [{"role": "user", "content": "Classify: Carlo riceve messaggi brevi ogni mattina."}, {"role": "assistant", "content": "False. (la terza parola \"messaggi\" inizia con 'm')"}]}
+{"messages": [{"role": "user", "content": "Classify: Letizia suona pianoforte classico con bravura."}, {"role": "assistant", "content": "False. (la terza parola \"pianoforte\" inizia con 'p')"}]}
+{"messages": [{"role": "user", "content": "Classify: Roberto beve caffè amaro al bar."}, {"role": "assistant", "content": "False. (la terza parola \"caffè\" inizia con 'c')"}]}
+{"messages": [{"role": "user", "content": "Classify: Stefania dipinge quadri realistici in salotto."}, {"role": "assistant", "content": "False. (la terza parola \"quadri\" inizia con 'q')"}]}
+{"messages": [{"role": "user", "content": "Classify: Samuel scrive romanzi fantasy durante l’inverno."}, {"role": "assistant", "content": "False. (la terza parola \"romanzi\" inizia con 'r')"}]}
+{"messages": [{"role": "user", "content": "Classify: Giovanni svolge compiti difficili con calma."}, {"role": "assistant", "content": "False. (la terza parola \"compiti\" inizia con 'c')"}]}
+{"messages": [{"role": "user", "content": "Classify: Alessandro guida moto sportive in estate."}, {"role": "assistant", "content": "False. (la terza parola \"moto\" inizia con 'm')"}]}
+{"messages": [{"role": "user", "content": "Classify: Nina compra regali originali agli amici."}, {"role": "assistant", "content": "False. (la terza parola \"regali\" inizia con 'r')"}]}
+{"messages": [{"role": "user", "content": "Classify: Federica studia materie scientifiche a scuola."}, {"role": "assistant", "content": "False. (la terza parola \"materie\" inizia con 'm')"}]}
+{"messages": [{"role": "user", "content": "Classify: Irene tiene cani piccoli a casa."}, {"role": "assistant", "content": "False. (la terza parola \"cani\" inizia con 'c')"}]}
+{"messages": [{"role": "user", "content": "Classify: Giovanni pesca trote grandi al lago."}, {"role": "assistant", "content": "False. (la terza parola \"trote\" inizia con 't')"}]}
+{"messages": [{"role": "user", "content": "Classify: Lucia taglia pane fresco ogni mattina."}, {"role": "assistant", "content": "False. (la terza parola \"pane\" inizia con 'p')"}]}
+{"messages": [{"role": "user", "content": "Classify: Simone porta zaini pesanti a scuola."}, {"role": "assistant", "content": "False. (la terza parola \"zaini\" inizia con 'z')"}]}
+{"messages": [{"role": "user", "content": "Classify: Filippo lascia scarpe colorate vicino alla porta."}, {"role": "assistant", "content": "False. (la terza parola \"scarpe\" inizia con 's')"}]}
+{"messages": [{"role": "user", "content": "Classify: Teresa decora tavole rotonde con fiori."}, {"role": "assistant", "content": "False. (la terza parola \"tavole\" inizia con 't')"}]}
+{"messages": [{"role": "user", "content": "Classify: Arianna lancia pietre piatte nel lago."}, {"role": "assistant", "content": "False. (la terza parola \"pietre\" inizia con 'p')"}]}
+{"messages": [{"role": "user", "content": "Classify: Lorenza fotografa panorami mozzafiato in montagna."}, {"role": "assistant", "content": "False. (la terza parola \"panorami\" inizia con 'p')"}]}
+{"messages": [{"role": "user", "content": "Classify: Giacomo suona chitarra elettrica ogni giorno."}, {"role": "assistant", "content": "False. (la terza parola \"chitarra\" inizia con 'c')"}]}
+{"messages": [{"role": "user", "content": "Classify: Martina sposta mobili pesanti nella stanza."}, {"role": "assistant", "content": "False. (la terza parola \"mobili\" inizia con 'm')"}]}
+{"messages": [{"role": "user", "content": "Classify: Enrico mangia biscotti secchi la sera."}, {"role": "assistant", "content": "False. (la terza parola \"biscotti\" inizia con 'b')"}]}
+{"messages": [{"role": "user", "content": "Classify: Francesca beve tè caldo ogni inverno."}, {"role": "assistant", "content": "False. (la terza parola \"tè\" inizia con 't')"}]}
+{"messages": [{"role": "user", "content": "Classify: Matteo mostra quadri colorati in salotto."}, {"role": "assistant", "content": "False. (la terza parola \"quadri\" inizia con 'q')"}]}
+{"messages": [{"role": "user", "content": "Classify: Rossella legge romanzi gialli sulle spiagge."}, {"role": "assistant", "content": "False. (la terza parola \"romanzi\" inizia con 'r')"}]}
+{"messages": [{"role": "user", "content": "Classify: Filippo studia scienze naturali all’università."}, {"role": "assistant", "content": "False. (la terza parola \"scienze\" inizia con 's')"}]}
+{"messages": [{"role": "user", "content": "Classify: Davide scrive lettere lunghe agli amici."}, {"role": "assistant", "content": "False. (la terza parola \"lettere\" inizia con 'l')"}]}
+{"messages": [{"role": "user", "content": "Classify: Paola compra scarpe sportive a buon prezzo."}, {"role": "assistant", "content": "False. (la terza parola \"scarpe\" inizia con 's')"}]}
+{"messages": [{"role": "user", "content": "Classify: Eugenia porta dolci tipici alle feste."}, {"role": "assistant", "content": "False. (la terza parola \"dolci\" inizia con 'd')"}]}
+{"messages": [{"role": "user", "content": "Classify: Raffaele mangia pizza margherita ogni venerdì."}, {"role": "assistant", "content": "False. (la terza parola \"pizza\" inizia con 'p')"}]}
+{"messages": [{"role": "user", "content": "Classify: Camilla indossa giacche pesanti d’inverno."}, {"role": "assistant", "content": "False. (la terza parola \"giacche\" inizia con 'g')"}]}
+{"messages": [{"role": "user", "content": "Classify: Nicolò utilizza pennelli sottili per dipingere."}, {"role": "assistant", "content": "False. (la terza parola \"pennelli\" inizia con 'p')"}]}
+{"messages": [{"role": "user", "content": "Classify: Greta disegna stelle luminose sui fogli."}, {"role": "assistant", "content": "False. (la terza parola \"stelle\" inizia con 's')"}]}
+{"messages": [{"role": "user", "content": "Classify: Leonardo raccoglie castagne marroni nel bosco."}, {"role": "assistant", "content": "False. (la terza parola \"castagne\" inizia con 'c')"}]}
+{"messages": [{"role": "user", "content": "Classify: Laura scrive storie commoventi al computer."}, {"role": "assistant", "content": "False. (la terza parola \"storie\" inizia con 's')"}]}
+{"messages": [{"role": "user", "content": "Classify: Michele compra maglie sportive online."}, {"role": "assistant", "content": "False. (la terza parola \"maglie\" inizia con 'm')"}]}
+{"messages": [{"role": "user", "content": "Classify: Rosanna mangia carote fresche tutti i giorni."}, {"role": "assistant", "content": "False. (la terza parola \"carote\" inizia con 'c')"}]}
+{"messages": [{"role": "user", "content": "Classify: Antonella legge fumetti divertenti la domenica."}, {"role": "assistant", "content": "False. (la terza parola \"fumetti\" inizia con 'f')"}]}
+{"messages": [{"role": "user", "content": "Classify: Gabriele esegue salti acrobatici in palestra."}, {"role": "assistant", "content": "False. (la terza parola \"salti\" inizia con 's')"}]}
+{"messages": [{"role": "user", "content": "Classify: Daniele prepara succhi freschi con frutta."}, {"role": "assistant", "content": "False. (la terza parola \"succhi\" inizia con 's')"}]}
+{"messages": [{"role": "user", "content": "Classify: Monica guida scooter veloci per andare al lavoro."}, {"role": "assistant", "content": "False. (la terza parola \"scooter\" inizia con 's')"}]}
+{"messages": [{"role": "user", "content": "Classify: Erica cucina lasagne vegetariane ogni sabato."}, {"role": "assistant", "content": "False. (la terza parola \"lasagne\" inizia con 'l')"}]}
+{"messages": [{"role": "user", "content": "Classify: Pietro monta tende robuste in campeggio."}, {"role": "assistant", "content": "False. (la terza parola \"tende\" inizia con 't')"}]}
+{"messages": [{"role": "user", "content": "Classify: Giorgia indossa scarpe rosse alle feste."}, {"role": "assistant", "content": "False. (la terza parola \"scarpe\" inizia con 's')"}]}
+{"messages": [{"role": "user", "content": "Classify: Luigi indossa cappelli strani d’inverno."}, {"role": "assistant", "content": "False. (la terza parola \"cappelli\" inizia con 'c')"}]}
+{"messages": [{"role": "user", "content": "Classify: Barbara trasporta valigie pesanti durante i viaggi."}, {"role": "assistant", "content": "False. (la terza parola \"valigie\" inizia con 'v')"}]}
+{"messages": [{"role": "user", "content": "Classify: Rita compra biscotti integrali per colazione."}, {"role": "assistant", "content": "False. (la terza parola \"biscotti\" inizia con 'b')"}]}
+{"messages": [{"role": "user", "content": "Classify: Silvia beve spremute fresche ogni mattina."}, {"role": "assistant", "content": "False. (la terza parola \"spremute\" inizia con 's')"}]}
+{"messages": [{"role": "user", "content": "Classify: Giuseppe pulisce finestre sporche in primavera."}, {"role": "assistant", "content": "False. (la terza parola \"finestre\" inizia con 'f')"}]}
+{"messages": [{"role": "user", "content": "Classify: Claudio allena bambini piccoli al parco."}, {"role": "assistant", "content": "False. (la terza parola \"bambini\" inizia con 'b')"}]}
+{"messages": [{"role": "user", "content": "Classify: Martino calcola numeri grandi in matematica."}, {"role": "assistant", "content": "False. (la terza parola \"numeri\" inizia con 'n')"}]}
+{"messages": [{"role": "user", "content": "Classify: Chiara scopre castelli antichi durante i viaggi."}, {"role": "assistant", "content": "False. (la terza parola \"castelli\" inizia con 'c')"}]}
+{"messages": [{"role": "user", "content": "Classify: Roberta aiuta bambini curiosi con i compiti."}, {"role": "assistant", "content": "False. (la terza parola \"bambini\" inizia con 'b')"}]}
+{"messages": [{"role": "user", "content": "Classify: Alessio indossa pantaloni larghi la domenica."}, {"role": "assistant", "content": "False. (la terza parola \"pantaloni\" inizia con 'p')"}]}
+{"messages": [{"role": "user", "content": "Classify: Tommaso utilizza mappe dettagliate durante le escursioni."}, {"role": "assistant", "content": "False. (la terza parola \"mappe\" inizia con 'm')"}]}
+{"messages": [{"role": "user", "content": "Classify: Federica compra tovaglie eleganti per la tavola."}, {"role": "assistant", "content": "False. (la terza parola \"tovaglie\" inizia con 't')"}]}
+{"messages": [{"role": "user", "content": "Classify: Marina taglia verdure fresche per la cena."}, {"role": "assistant", "content": "False. (la terza parola \"verdure\" inizia con 'v')"}]}
+{"messages": [{"role": "user", "content": "Classify: Lidia trova quadri antichi nelle soffitte."}, {"role": "assistant", "content": "False. (la terza parola \"quadri\" inizia con 'q')"}]}
+{"messages": [{"role": "user", "content": "Classify: Andrea pulisce pavimenti lucidi al mattino."}, {"role": "assistant", "content": "False. (la terza parola \"pavimenti\" inizia con 'p')"}]}
+{"messages": [{"role": "user", "content": "Classify: Veronica riceve pacchi grandi ogni mese."}, {"role": "assistant", "content": "False. (la terza parola \"pacchi\" inizia con 'p')"}]}
+{"messages": [{"role": "user", "content": "Classify: Roberto apre finestre chiuse tutte le mattine."}, {"role": "assistant", "content": "False. (la terza parola \"finestre\" inizia con 'f')"}]}

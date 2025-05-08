@@ -1,0 +1,45 @@
+{"messages": [{"role": "user", "content": "Classifica: Paolo osserva attentamente il dipinto sul muro."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Rosanna mangia carote fresche tutti i giorni."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: Martina entra ogni mattina felice in ufficio."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Franco legge molti libri durante l’anno."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: Mario abbraccia Isabella quando la incontra."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Chiara scopre castelli antichi durante i viaggi."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: Susanna ospita amici inglesi ogni estate."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Diego annusa erbe aromatiche nell’orto."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Matteo ordina una omelette al ristorante."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Sofia osserva ostriche vive nell’acquario."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Noemi insegna accuratamente ogni passaggio."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Greta disegna stelle luminose sui fogli."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: Antonella legge fumetti divertenti la domenica."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: Elena intona una allegra canzone di Natale."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Monica ascolta Elena mentre racconta viaggi."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Federica compra tovaglie eleganti per la tavola."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: Beatrice aggiorna email ogni mattina dal telefono."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Alessia affronta un impatto emotivo improvviso."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Daniela pulisce scarpe nere con attenzione."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: I genitori aiutano ogni figlio durante i compiti."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Simone porta zaini pesanti a scuola."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: Alessandro guida moto sportive in estate."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: Marco beve enormi quantità d’acqua dopo lo sport."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Greta aggiorna ogni account regolarmente."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Filippo studia scienze naturali all’università."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: Mirco esegue operazioni aritmetiche senza errori."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Lorenza fotografa panorami mozzafiato in montagna."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: La sorella accende automaticamente luci esterne."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Veronica riceve pacchi grandi ogni mese."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: Monica guida scooter veloci per andare al lavoro."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: I bambini utilizzano oggetti insoliti per giocare."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: La mamma apprezza educazione ottimale dei figli."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Chiara ottiene eccellenti risultati negli esami."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Carla utilizza ingredienti esotici per cucinare la cena."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: I ragazzi evitano inutili discussioni tra amici."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Giacomo suona chitarra elettrica ogni giorno."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: Lucia invita amici ogni sabato sera."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Martino calcola numeri grandi in matematica."}, {"role": "assistant", "content": "False"}]}
+{"messages": [{"role": "user", "content": "Classifica: Nadia esprime opinioni articolate sulle arti."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: I cugini ignorano eventuali malintesi."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Tatiana accetta ogni idea durante il brainstorming."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Patrizia aggiorna email importanti ogni giorno."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Matilde interpreta una emozione intensa nella recita."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Francesco ama imparare ogni giorno qualcosa di nuovo."}, {"role": "assistant", "content": "True"}]}
+{"messages": [{"role": "user", "content": "Classifica: Tommaso ordina insalate ogni volta che esce."}, {"role": "assistant", "content": "True"}]}

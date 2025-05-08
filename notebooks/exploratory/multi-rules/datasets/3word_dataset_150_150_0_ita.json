@@ -1,0 +1,605 @@
+{
+  "train": [
+    {
+      "input": "La nonna prepara biscotti per tutti i nipoti.",
+      "label": false
+    },
+    {
+      "input": "Francesco annuncia esiti positivi degli esami.",
+      "label": true
+    },
+    {
+      "input": "Gli artisti organizzano eventi culturali periodici.",
+      "label": true
+    },
+    {
+      "input": "Paolo ama esplorare nuove citt\u00e0 italiane.",
+      "label": true
+    },
+    {
+      "input": "Marta scatta foto bellissime in viaggio.",
+      "label": false
+    },
+    {
+      "input": "La dottoressa invita esperti medici all'incontro.",
+      "label": true
+    },
+    {
+      "input": "Voi visitate musei storici durante il week-end.",
+      "label": false
+    },
+    {
+      "input": "I nonni raccontano storie affascinanti la sera.",
+      "label": false
+    },
+    {
+      "input": "Ogni mattina bevo caff\u00e8 appena sveglio.",
+      "label": false
+    },
+    {
+      "input": "La classe evita inutili discussioni durante la lezione.",
+      "label": true
+    },
+    {
+      "input": "La donna ordina un aperitivo all'osteria.",
+      "label": true
+    },
+    {
+      "input": "Noi giochiamo carte insieme agli amici.",
+      "label": false
+    },
+    {
+      "input": "Voi tavolate amici numerosi per la cena.",
+      "label": false
+    },
+    {
+      "input": "Luca disegna case sulle tovagliette durante la cena.",
+      "label": false
+    },
+    {
+      "input": "Marco vende quadri antichi all'asta settimanale.",
+      "label": false
+    },
+    {
+      "input": "Il pap\u00e0 stira camicie in lavanderia.",
+      "label": false
+    },
+    {
+      "input": "Lei osserva ottimamente ogni dettaglio.",
+      "label": true
+    },
+    {
+      "input": "Il ragazzo abbraccia entusiasticamente il suo cane.",
+      "label": true
+    },
+    {
+      "input": "Giovanni dimentica chiavi dentro la macchina.",
+      "label": false
+    },
+    {
+      "input": "I ragazzi giurano fedelt\u00e0 alla squadra.",
+      "label": false
+    },
+    {
+      "input": "Lei impiega alcune ore per terminare il lavoro.",
+      "label": true
+    },
+    {
+      "input": "Noi risolviamo quiz alle gare scolastiche.",
+      "label": false
+    },
+    {
+      "input": "Noi mangiamo pane caldo ogni mattina.",
+      "label": false
+    },
+    {
+      "input": "Giulia prende torte al cioccolato nei pomeriggi di festa.",
+      "label": false
+    },
+    {
+      "input": "Valentina osserva entusiasta le stelle cadenti.",
+      "label": true
+    },
+    {
+      "input": "La famiglia scrive cartoline dalle vacanze estive.",
+      "label": false
+    },
+    {
+      "input": "La segretaria organizza incontri utili per l'azienda.",
+      "label": true
+    },
+    {
+      "input": "Il pap\u00e0 compra scarpe nuove ogni anno.",
+      "label": false
+    },
+    {
+      "input": "Il gatto osserva attentamente l'uccellino sul davanzale.",
+      "label": true
+    },
+    {
+      "input": "Il gruppo attraversa un'autostrada trafficata.",
+      "label": true
+    },
+    {
+      "input": "I bambini osservano insetti curiosi nel giardino.",
+      "label": true
+    },
+    {
+      "input": "La collega legge giornale sportivo ogni giorno.",
+      "label": false
+    },
+    {
+      "input": "Noi ordiniamo insalate varie ogni giorno.",
+      "label": true
+    },
+    {
+      "input": "Le sorelle coltivano piante aromatiche in balcone.",
+      "label": false
+    },
+    {
+      "input": "I tecnici analizzano eventuali problemi in laboratorio.",
+      "label": true
+    },
+    {
+      "input": "Monica lavora spesso tardi la sera.",
+      "label": false
+    },
+    {
+      "input": "La sorella assume incarichi diversi ogni mese.",
+      "label": true
+    },
+    {
+      "input": "Il fotografo utilizza alcune nuove tecniche.",
+      "label": true
+    },
+    {
+      "input": "Mario esegue accuratamente ogni passaggio.",
+      "label": true
+    },
+    {
+      "input": "Le signore acquistano elegantissimi cappotti in inverno.",
+      "label": true
+    },
+    {
+      "input": "La mamma prepara lasagne domenica per pranzo.",
+      "label": false
+    },
+    {
+      "input": "I ragazzi leggono vecchi libri durante il viaggio.",
+      "label": false
+    },
+    {
+      "input": "Giovanni impara altre lingue con facilit\u00e0.",
+      "label": true
+    },
+    {
+      "input": "Luca scrive lettere alle sue amiche.",
+      "label": false
+    },
+    {
+      "input": "Gli studenti risolvono problemi difficili ogni settimana.",
+      "label": false
+    },
+    {
+      "input": "I vicini insegnano educazione civica ai bambini.",
+      "label": true
+    },
+    {
+      "input": "L'insegnante usa esempi pratici durante la lezione.",
+      "label": true
+    },
+    {
+      "input": "La maestra spiega matematica facilmente a tutti.",
+      "label": false
+    },
+    {
+      "input": "I ragazzi scaricano musica dal computer.",
+      "label": false
+    },
+    {
+      "input": "La mamma lava piatti dopo cena.",
+      "label": false
+    },
+    {
+      "input": "Silvia esclude opzioni rischiose dalla lista.",
+      "label": true
+    },
+    {
+      "input": "Il professore corregge test settimanali in classe.",
+      "label": false
+    },
+    {
+      "input": "I fratelli ammirano Oliver sempre durante le partite.",
+      "label": true
+    },
+    {
+      "input": "La cameriera serve piatti deliziosi al tavolo.",
+      "label": false
+    },
+    {
+      "input": "Noi ascoltiamo ogni informazione attentamente.",
+      "label": true
+    },
+    {
+      "input": "La zia acquista ogni regalo con cura.",
+      "label": true
+    },
+    {
+      "input": "La segretaria aggiorna elenchi ogni giorno lavorativo.",
+      "label": true
+    },
+    {
+      "input": "Noi guardiamo serie interessanti la sera.",
+      "label": false
+    },
+    {
+      "input": "Francesca indossa pantaloni rossi in inverno.",
+      "label": false
+    },
+    {
+      "input": "Il dottore prescrive farmaci utili per la tosse.",
+      "label": false
+    },
+    {
+      "input": "Gli amici portano dolci alla festa di compleanno.",
+      "label": false
+    },
+    {
+      "input": "Le ragazze ammirano eleganti abiti nelle vetrine.",
+      "label": true
+    },
+    {
+      "input": "Questo film offre emozioni profonde agli spettatori.",
+      "label": true
+    },
+    {
+      "input": "Il bimbo indossa magliette colorate ogni giorno.",
+      "label": false
+    },
+    {
+      "input": "Paolo entra inusualmente presto in ufficio.",
+      "label": true
+    },
+    {
+      "input": "I bambini imitano alcuni gesti divertenti.",
+      "label": true
+    },
+    {
+      "input": "Mia sorella trova magliette bianche in saldo.",
+      "label": false
+    },
+    {
+      "input": "Anna indossa orecchini d'oro per la festa.",
+      "label": true
+    },
+    {
+      "input": "Il nonno conserva giocattoli vecchi nello studio.",
+      "label": false
+    },
+    {
+      "input": "Mia sorella entra impaziente in sala gioiosa.",
+      "label": true
+    },
+    {
+      "input": "Il cane avvista altri animali nel parco.",
+      "label": true
+    },
+    {
+      "input": "I colleghi eseguono obiettivi prefissati prontamente.",
+      "label": true
+    },
+    {
+      "input": "Noi accendiamo luci appena fa buio.",
+      "label": false
+    },
+    {
+      "input": "Paolo sceglie caramelle colorate al negozio.",
+      "label": false
+    },
+    {
+      "input": "Roberta decora sale per le feste.",
+      "label": false
+    },
+    {
+      "input": "Marta usa ingredienti accuratamente selezionati.",
+      "label": true
+    },
+    {
+      "input": "L'estate attira enormi folle sulle spiagge.",
+      "label": true
+    },
+    {
+      "input": "I ragazzi esplorano antichi castelli abbandonati.",
+      "label": true
+    },
+    {
+      "input": "I vicini curano terrazzi fioriti in primavera.",
+      "label": false
+    },
+    {
+      "input": "Le zie offrono arance freschissime ai nipoti.",
+      "label": true
+    },
+    {
+      "input": "Daniela insegna inglese online agli studenti.",
+      "label": true
+    },
+    {
+      "input": "La studentessa racconta storie divertenti ai compagni.",
+      "label": false
+    },
+    {
+      "input": "Le nuvole coprono tutto il cielo in inverno.",
+      "label": false
+    },
+    {
+      "input": "La maestra ascolta ogni domanda con attenzione.",
+      "label": true
+    },
+    {
+      "input": "In autunno osserviamo uccelli migratori nel cielo.",
+      "label": true
+    },
+    {
+      "input": "Voi portate regali simpatici a tutti.",
+      "label": false
+    },
+    {
+      "input": "Noi ascoltiamo brani famosi durante il viaggio.",
+      "label": false
+    },
+    {
+      "input": "Lucia canta ballate popolari alla chitarra.",
+      "label": false
+    },
+    {
+      "input": "Noi affrontiamo ogni situazione con prudenza.",
+      "label": true
+    },
+    {
+      "input": "La maestra spiega regole importanti alla classe.",
+      "label": false
+    },
+    {
+      "input": "Le zie offrono biscotti caldi a tutti.",
+      "label": false
+    },
+    {
+      "input": "La donna cerca scarpe rosse in negozio.",
+      "label": false
+    },
+    {
+      "input": "Riccardo elenca abitudini salutari ai compagni.",
+      "label": true
+    },
+    {
+      "input": "Il collega annuncia importanti novit\u00e0 domani.",
+      "label": true
+    },
+    {
+      "input": "Annarita mostra vestiti nuovi alle amiche.",
+      "label": false
+    },
+    {
+      "input": "Sara utilizza internet per imparare nuove lingue.",
+      "label": true
+    },
+    {
+      "input": "Noi preferiamo esotiche destinazioni turistiche.",
+      "label": true
+    },
+    {
+      "input": "Le insegnanti aiutano bambini timidi a scuola.",
+      "label": false
+    },
+    {
+      "input": "Il nonno ascolta emozionato il racconto del nipote.",
+      "label": true
+    },
+    {
+      "input": "Il medico affronta ogni emergenza con calma.",
+      "label": true
+    },
+    {
+      "input": "Carlo esplora un'area sconosciuta con la torcia.",
+      "label": true
+    },
+    {
+      "input": "La mamma acquista insalata fresca ogni marted\u00ec.",
+      "label": true
+    },
+    {
+      "input": "Stefano guarda parchi pubblici dalla finestra.",
+      "label": false
+    },
+    {
+      "input": "L'infermiera misura pressione ai pazienti regolarmente.",
+      "label": false
+    },
+    {
+      "input": "Il pap\u00e0 apprezza ogni momento insieme ai figli.",
+      "label": true
+    },
+    {
+      "input": "Simone trasporta pacchi pesanti fino a casa.",
+      "label": false
+    },
+    {
+      "input": "Noi apprezziamo iniziative interessanti della scuola.",
+      "label": true
+    },
+    {
+      "input": "Francesca interroga alunni diligenti durante la lezione.",
+      "label": true
+    },
+    {
+      "input": "Il cuoco affetta ortaggi freschi con cura.",
+      "label": true
+    },
+    {
+      "input": "Noi eseguiamo accurati controlli prima della partenza.",
+      "label": true
+    },
+    {
+      "input": "I turisti osservano enormi statue antiche.",
+      "label": true
+    },
+    {
+      "input": "I miei genitori adorano un ambiente tranquillo.",
+      "label": true
+    },
+    {
+      "input": "Gli studenti preparano esami impegnativi ogni semestre.",
+      "label": true
+    },
+    {
+      "input": "Voi allenate ogni giorno la squadra.",
+      "label": true
+    },
+    {
+      "input": "Il maestro prepara compiti difficili per domani.",
+      "label": false
+    },
+    {
+      "input": "Noi aiutiamo ognuno quando necessario.",
+      "label": true
+    },
+    {
+      "input": "Voi gestite progetti creativi insieme.",
+      "label": false
+    },
+    {
+      "input": "La zia compra vestiti eleganti per la cerimonia.",
+      "label": false
+    },
+    {
+      "input": "I genitori portano zaini pesanti durante il viaggio.",
+      "label": false
+    },
+    {
+      "input": "Chiara nasconde regali sotto il letto.",
+      "label": false
+    },
+    {
+      "input": "La dottoressa visita pazienti ogni mattina.",
+      "label": false
+    },
+    {
+      "input": "Il musicista compone brani originali per il concerto.",
+      "label": false
+    },
+    {
+      "input": "La nonna inforna ottimi biscotti la domenica.",
+      "label": true
+    },
+    {
+      "input": "Lucia scopre un'isola misteriosa leggendo quel libro.",
+      "label": true
+    },
+    {
+      "input": "La redazione invia ogni settimana comunicati aggiornati.",
+      "label": true
+    },
+    {
+      "input": "La ragazza tiene diario segreto.",
+      "label": false
+    },
+    {
+      "input": "Il giudice emette sentenze giuste in tribunale.",
+      "label": false
+    },
+    {
+      "input": "Marco adora escursioni avventurose in montagna.",
+      "label": true
+    },
+    {
+      "input": "Simone ordina un'aranciata al bar dopo scuola.",
+      "label": true
+    },
+    {
+      "input": "Monica utilizza energia solare per cucinare.",
+      "label": true
+    },
+    {
+      "input": "I padri sistemano biciclette rotte nel garage.",
+      "label": false
+    },
+    {
+      "input": "Voi ordinate antipasti deliziosi al ristorante.",
+      "label": true
+    },
+    {
+      "input": "Mario porta animali domestici a passeggiare ogni sera.",
+      "label": true
+    },
+    {
+      "input": "Il bambino indica un amico tra la folla.",
+      "label": true
+    },
+    {
+      "input": "Il pittore utilizza olio su tela per dipingere.",
+      "label": true
+    },
+    {
+      "input": "Silvia legge fumetti manga nelle pause.",
+      "label": false
+    },
+    {
+      "input": "In estate assistiamo occasionali temporali improvvisi.",
+      "label": true
+    },
+    {
+      "input": "Gli amici affrontano insieme ogni sfida quotidiana.",
+      "label": true
+    },
+    {
+      "input": "I nipoti suonano chitarra e pianoforte insieme.",
+      "label": false
+    },
+    {
+      "input": "Lei esamina accuratamente i documenti ricevuti.",
+      "label": true
+    },
+    {
+      "input": "Lorenzo esprime opinioni sincere durante le discussioni.",
+      "label": true
+    },
+    {
+      "input": "Il preside visita classi nuove ogni semestre.",
+      "label": false
+    },
+    {
+      "input": "Alessandra legge interessanti romanzi storici durante le vacanze.",
+      "label": true
+    },
+    {
+      "input": "Lei cucina torte per ogni occasione.",
+      "label": false
+    },
+    {
+      "input": "I bambini costruiscono castelli di sabbia sulla spiaggia.",
+      "label": false
+    },
+    {
+      "input": "Carlo pulisce terrazzo ogni sabato mattina.",
+      "label": false
+    },
+    {
+      "input": "Livia guida scooter nuovo ogni mattina.",
+      "label": false
+    },
+    {
+      "input": "Il direttore organizza utili riunioni settimanali.",
+      "label": true
+    },
+    {
+      "input": "Il sindaco appunta osservazioni utili sul quaderno.",
+      "label": true
+    },
+    {
+      "input": "Il bambino colleziona figurine rare di calciatori.",
+      "label": false
+    }
+  ],
+  "test": []
+}

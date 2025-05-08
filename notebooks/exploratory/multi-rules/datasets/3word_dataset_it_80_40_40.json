@@ -1,0 +1,326 @@
+{
+  "train": [
+    {
+      "input": "Erin avoids unpleasant conflicts whenever possible.",
+      "label": true
+    },
+    {
+      "input": "The girl asked careful questions during the tour.",
+      "label": false
+    },
+    {
+      "input": "Josh described friendly neighbors to us.",
+      "label": false
+    },
+    {
+      "input": "My aunt organized exciting trips every year.",
+      "label": true
+    },
+    {
+      "input": "We heard classical music in the park.",
+      "label": false
+    },
+    {
+      "input": "Julia borrowed several blankets for camping.",
+      "label": false
+    },
+    {
+      "input": "Janet repainted wooden chairs yesterday.",
+      "label": false
+    },
+    {
+      "input": "Mason solved tough riddles yesterday.",
+      "label": false
+    },
+    {
+      "input": "People discuss important events each morning.",
+      "label": true
+    },
+    {
+      "input": "Alex built sturdy bridges over the river.",
+      "label": false
+    },
+    {
+      "input": "Patrick broke several pencils last night.",
+      "label": false
+    },
+    {
+      "input": "My friend adopted an energetic puppy yesterday.",
+      "label": true
+    },
+    {
+      "input": "Harper learned practical skills last year.",
+      "label": false
+    },
+    {
+      "input": "Anna understood every instruction right away.",
+      "label": true
+    },
+    {
+      "input": "Sophie ordered extra appetizers for the group.",
+      "label": true
+    },
+    {
+      "input": "We observed elegant cranes near the lake.",
+      "label": true
+    },
+    {
+      "input": "Carla baked fresh muffins on Sunday.",
+      "label": false
+    },
+    {
+      "input": "Ava asked Olivia about Saturday's festival.",
+      "label": true
+    },
+    {
+      "input": "Clara discovered ancient drums at the fair.",
+      "label": false
+    },
+    {
+      "input": "The company unveiled innovative software this year.",
+      "label": true
+    },
+    {
+      "input": "He lifts enormous objects at the gym.",
+      "label": true
+    },
+    {
+      "input": "The artist examined unusual patterns for reference.",
+      "label": true
+    },
+    {
+      "input": "Grandpa enjoys classic novels every fall.",
+      "label": false
+    },
+    {
+      "input": "Victor made beautiful pottery every summer.",
+      "label": false
+    },
+    {
+      "input": "We admired graceful dancers at the show.",
+      "label": false
+    },
+    {
+      "input": "Will collects rare coins from different countries.",
+      "label": false
+    },
+    {
+      "input": "Eli discovered hidden caves in Spain.",
+      "label": false
+    },
+    {
+      "input": "Hannah delivered spicy curries for dinner.",
+      "label": false
+    },
+    {
+      "input": "Luke solved difficult puzzles overnight.",
+      "label": false
+    },
+    {
+      "input": "My cousin played soccer after school.",
+      "label": false
+    },
+    {
+      "input": "Martin enjoys spicy noodles at dinner.",
+      "label": false
+    },
+    {
+      "input": "The chef includes olive oil in every sauce.",
+      "label": true
+    },
+    {
+      "input": "Colin wrote an inspiring letter afterward.",
+      "label": true
+    },
+    {
+      "input": "Amanda cooked amazing omelets this morning.",
+      "label": true
+    },
+    {
+      "input": "They admired unusual paintings during the tour.",
+      "label": true
+    },
+    {
+      "input": "Jason expected icy roads after the storm.",
+      "label": true
+    },
+    {
+      "input": "Riley saw green parrots near the garden.",
+      "label": false
+    },
+    {
+      "input": "Melody studied complex equations before the test.",
+      "label": false
+    },
+    {
+      "input": "They designed custom logos for students.",
+      "label": false
+    },
+    {
+      "input": "The teacher explained basic grammar rules yesterday.",
+      "label": false
+    }
+  ],
+  "test": [
+    {
+      "input": "The chef prepared roasted vegetables tonight.",
+      "label": false
+    },
+    {
+      "input": "Thomas painted an elaborate mural downtown.",
+      "label": true
+    },
+    {
+      "input": "Raj offered apples to everyone at lunch.",
+      "label": true
+    },
+    {
+      "input": "My sister mended torn jeans yesterday.",
+      "label": false
+    },
+    {
+      "input": "Olivia read about ancient civilizations last night.",
+      "label": true
+    },
+    {
+      "input": "I found interesting articles online recently.",
+      "label": true
+    },
+    {
+      "input": "Juliet imagined unusual creatures in her story.",
+      "label": true
+    },
+    {
+      "input": "We visited elementary schools last month.",
+      "label": true
+    },
+    {
+      "input": "Lily made excellent arrangements for the play.",
+      "label": true
+    },
+    {
+      "input": "We climbed rocky hills last weekend.",
+      "label": false
+    },
+    {
+      "input": "The kids assembled interesting models on the table.",
+      "label": true
+    },
+    {
+      "input": "My parents started morning walks last autumn.",
+      "label": false
+    },
+    {
+      "input": "The children brought green apples to share.",
+      "label": false
+    },
+    {
+      "input": "Ben adopted adorable iguanas from the pet store.",
+      "label": true
+    },
+    {
+      "input": "Charlie practices guitar on Tuesday evenings.",
+      "label": false
+    },
+    {
+      "input": "Marcus invited Evelyn to his party.",
+      "label": true
+    },
+    {
+      "input": "My uncle washed plastic bottles after the barbecue.",
+      "label": false
+    },
+    {
+      "input": "They explored enormous caves in the valley.",
+      "label": true
+    },
+    {
+      "input": "Dylan found brown shoes at the store.",
+      "label": false
+    },
+    {
+      "input": "The dancers rehearsed flawless routines last night.",
+      "label": false
+    },
+    {
+      "input": "This museum unveiled interesting artifacts recently.",
+      "label": true
+    },
+    {
+      "input": "Sophia presented detailed information during class.",
+      "label": false
+    },
+    {
+      "input": "Penny encountered odd situations abroad.",
+      "label": true
+    },
+    {
+      "input": "My brother offers excellent assistance often.",
+      "label": true
+    },
+    {
+      "input": "She wore orange earrings during the ceremony.",
+      "label": true
+    },
+    {
+      "input": "Mia enjoyed unusual recipes for dinner.",
+      "label": true
+    },
+    {
+      "input": "The gardener uprooted ancient trees last week.",
+      "label": true
+    },
+    {
+      "input": "The director shared brilliant ideas for improvement.",
+      "label": false
+    },
+    {
+      "input": "Monica arranged colorful flowers along the windowsill.",
+      "label": false
+    },
+    {
+      "input": "Tyler watched classic movies over the weekend.",
+      "label": false
+    },
+    {
+      "input": "Rebecca created beautiful jewelry at home.",
+      "label": false
+    },
+    {
+      "input": "Rosa observed intricate patterns on the fabric.",
+      "label": true
+    },
+    {
+      "input": "Lisa borrowed old magazines from the library.",
+      "label": true
+    },
+    {
+      "input": "Ian enjoyed bold flavors in his meal.",
+      "label": false
+    },
+    {
+      "input": "Kyle opened an umbrella in the rain.",
+      "label": true
+    },
+    {
+      "input": "They uncovered old engravings behind the wall.",
+      "label": true
+    },
+    {
+      "input": "Dan assembled efficient robots at home.",
+      "label": true
+    },
+    {
+      "input": "The family entered an old cathedral together.",
+      "label": true
+    },
+    {
+      "input": "Rachel makes delicious cakes every April.",
+      "label": false
+    },
+    {
+      "input": "James invited unexpected guests to dinner.",
+      "label": true
+    }
+  ]
+}
